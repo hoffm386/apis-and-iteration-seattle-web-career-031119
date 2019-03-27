@@ -1,5 +1,5 @@
 # Working with APIs and Nested Data Structures
-Authors : Soundarya Rajendran and Erin Hoffman
+by Soundarya Rajendran and Erin Hoffman
 
 ## Objectives
 
